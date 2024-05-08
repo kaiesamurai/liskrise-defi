@@ -9,7 +9,7 @@ Liskrise DeFi is a decentralized marketplace facilitating the secure buying, sel
 ## Lisk Sepolia Testnet -> deployed in address: 0x8C1208A372f8D62BDA9e18bD51165266E45DF0Cc
 ## [https://sepolia.scrollscan.com/address/0x9fdd8562c511698a5c895a68cf250a0727ad4c0d]
 
-![1](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/e3a6abb8-ba18-4f40-a40e-c4b4e1cbe85f)
+![image](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/5afa3359-e40d-4f78-b1cf-107abec1edae)
 
 #### How We Built It
 The development journey began with a clear purpose—creating a user-friendly platform. We implemented smart contracts using the ERC721 standard, integrating Lisk's privacy features for confidential transactions. The UI/Contract frontend was carefully designed to ensure a seamless and engaging interaction for users.
@@ -47,11 +47,12 @@ IPFS
 
 Images:-
 
-![image](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/2707ccf8-4761-4b74-8e76-1904c19d0f68)
-![image](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/e6a9720d-851b-408f-bb93-e9e80117d2a0)
-![image](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/d33de3c0-82ac-4f64-ae4b-b5c941c52761)
-![image](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/737ff6db-7c26-4613-8a67-22e7d16eb9fa)
-![image](https://github.com/Amarnath-Rao/Voucherise/assets/96937608/9c506854-2afa-4973-8c41-b5384b0c22cb)
+![image](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/8940fa36-6157-4579-8d08-517206aae57f)
+![image](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/9dbddfec-1e26-472b-b219-b1e78a40c30f)
+![image](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/4dbf6dc1-6fcf-4800-ba7a-34ea668c585a)
+![image](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/269e27f9-2833-4171-b991-69a7ab7aaf80)
+![image](https://github.com/kaiesamurai/liskrise-defi/assets/168727731/673ffb37-dc2a-4255-a671-1b8337e81c8a)
+
 
 
 
